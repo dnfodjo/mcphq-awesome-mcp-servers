@@ -1,6 +1,6 @@
 # Awesome MCP Servers
 
-> Full Markdown catalog of 191 hand-curated Model Context Protocol (MCP) servers. A shorter index lives at https://landscape.mcphq.org/llms.txt. The same records are published as JSON at https://landscape.mcphq.org/api/servers.json.
+> Full Markdown catalog of 193 hand-curated Model Context Protocol (MCP) servers. A shorter index lives at https://landscape.mcphq.org/llms.txt. The same records are published as JSON at https://landscape.mcphq.org/api/servers.json.
 
 This file lists every server in the catalog. Descriptions are the catalog's one-sentence summaries, not the upstream README. `Official: yes` means the MCP project or the named provider backs the server. Remote endpoints are included only when the catalog lists an SSE or streamable HTTP URL.
 
@@ -1137,6 +1137,18 @@ Manage Todoist tasks, projects, and due dates from AI assistants.
 - Official: no
 - Tags: tasks, productivity, todoist
 - Category: Communication and Productivity
+
+### Unblockd
+
+Project plans for teams that answer to a sponsor: read goals and deliverables, update tasks, attach proof, flag blockers, log risks, and draft decision asks with options. A person on the team sends each ask.
+
+- URL: https://unblockd.ai/setup.md
+- Language: TypeScript
+- Provider: Unblockd
+- Official: yes
+- Tags: project-management, productivity, oauth, remote
+- Category: Communication and Productivity
+- Streamable HTTP endpoint: https://unblockd.ai/mcp
 
 ### Zoom MCP Server
 

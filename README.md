@@ -1,6 +1,6 @@
 # Awesome MCP Servers
 
-[![Servers](https://img.shields.io/badge/servers-191-brightgreen)](#catalog)
+[![Servers](https://img.shields.io/badge/servers-193-brightgreen)](#catalog)
 [![GitHub stars](https://img.shields.io/github/stars/mcpHQ/awesome-mcp-servers?style=flat&logo=github)](https://github.com/mcpHQ/awesome-mcp-servers/stargazers)
 [![Last commit](https://img.shields.io/github/last-commit/mcpHQ/awesome-mcp-servers)](https://github.com/mcpHQ/awesome-mcp-servers/commits/main)
 [![Link check](https://github.com/mcpHQ/awesome-mcp-servers/actions/workflows/link-check.yml/badge.svg)](https://github.com/mcpHQ/awesome-mcp-servers/actions/workflows/link-check.yml)
@@ -45,12 +45,12 @@ If this list saves you time, please ⭐ star the repo. It helps other people fin
 - [Browsers, Search, and Web Automation](#browsers-search-and-web-automation) (16)
 - [Filesystems and Documents](#filesystems-and-documents) (10)
 - [Cloud and Infrastructure](#cloud-and-infrastructure) (14)
-- [Communication and Productivity](#communication-and-productivity) (17)
+- [Communication and Productivity](#communication-and-productivity) (18)
 - [AI, Agents, and Memory](#ai-agents-and-memory) (25)
 - [Data, Analytics, and BI](#data-analytics-and-bi) (15)
 - [Legal and Court Data](#legal-and-court-data) (4)
 - [Security and Identity](#security-and-identity) (10)
-- [Finance, Commerce, and Business Apps](#finance-commerce-and-business-apps) (24)
+- [Finance, Commerce, and Business Apps](#finance-commerce-and-business-apps) (25)
 - [Utilities and Examples](#utilities-and-examples) (12)
 
 <a id="official-and-reference"></a>
@@ -299,6 +299,8 @@ Integrate chat, email, calendars, and team collaboration tools.
   `project-management` `tasks` `agents` `remote`
 - **[Todoist MCP Server](https://github.com/abhiz123/todoist-mcp-server)** `TypeScript` — Manage Todoist tasks, projects, and due dates from AI assistants.  
   `tasks` `productivity` `todoist`
+- **[Unblockd](https://unblockd.ai/setup.md)** `Official` `TypeScript` — Project plans for teams that answer to a sponsor: read goals and deliverables, update tasks, attach proof, flag blockers, log risks, and draft decision asks with options. A person on the team sends each ask.  
+  `project-management` `productivity` `oauth` `remote`
 - **[Zoom MCP Server](https://developers.zoom.us/docs/mcp/)** `Official` `Other` — Official hosted Zoom MCP servers for meetings, chat, docs, and whiteboards.  
   `zoom` `meetings` `video`
 - **[Zovo Office Suite](https://github.com/theluckystrike/mcp-servers)** `TypeScript` — Local-first MCP bundle for freelance paperwork: invoicing, expenses, time tracking, spreadsheets, PDFs and resumes; 30 servers also reachable as hosted Streamable HTTP endpoints.  

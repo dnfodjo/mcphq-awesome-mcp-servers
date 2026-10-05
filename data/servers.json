@@ -622,6 +622,24 @@
     "official": true
   },
   {
+    "name": "Unblockd",
+    "url": "https://unblockd.ai/setup.md",
+    "description": "Project plans for teams that answer to a sponsor: read goals and deliverables, update tasks, attach proof, flag blockers, log risks, and draft decision asks with options. A person on the team sends each ask.",
+    "category": "communication-and-productivity",
+    "language": "TypeScript",
+    "provider": "Unblockd",
+    "tags": [
+      "project-management",
+      "productivity",
+      "oauth",
+      "remote"
+    ],
+    "official": true,
+    "endpoints": {
+      "streamableHttp": "https://unblockd.ai/mcp"
+    }
+  },
+  {
     "name": "Exa MCP Server",
     "url": "https://github.com/exa-labs/exa-mcp-server",
     "description": "Neural and keyword web search optimized for AI research workflows.",
